@@ -33,6 +33,8 @@ yarn-error.*
 # local env files
 .env*.local
 
+google-services.json
+
 #Private Key
 if670-week12-notificatio-9abda-firebase-adminsdk-fbsvc-a06201a527.json
 
